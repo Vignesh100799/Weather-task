@@ -1,0 +1,38 @@
+.text-container{
+    color: rgb(255, 128, 128);
+    text-shadow: 2px 2px black;
+    background: url("https://media.istockphoto.com/id/521262951/photo/caution-thunderstorms-ahead.jpg?s=2048x2048&w=is&k=20&c=MlfyIuQCYRscbAzRCTXlclTvZijPOR_YkFgYnclfCjU=");
+}
+.card{
+    margin-top: 15px !important;
+    padding-top: 15px !important;
+    background: url("https://media.istockphoto.com/id/1450652521/photo/pile-of-stones-on-the-calm-beach.jpg?s=2048x2048&w=is&k=20&c=gjCwfpZDTkcb6Ukb9VBXmXloY0KKTc5mH9O3YZ5yrTU=");
+}
+.img-body {
+    padding-top: 15px;
+    font-weight: bold;
+
+}
+.img-con {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    filter:drop-shadow(10px 8px 6px rgb(56, 52, 52));
+
+}
+.card-img-top {
+    width: 150px !important; 
+    height: 100px !important; 
+    object-fit: cover !important;
+}
+h5,p{
+    text-align: center;
+}
+span{
+    text-align: center;
+    background-color: rgb(225, 225, 225);
+    text-wrap: nowrap;
+}
+
+
+
